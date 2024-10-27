@@ -1,3 +1,6 @@
+import React from "react"
+import ReactDOM from "react-dom/client"
+
 // React.createElement("elementName", {"attributs and props(like id, class, key, etc)"}, children's of the tag(we can create multiple childs of this element we are creating))
 
 const greetingReact = React.createElement(
